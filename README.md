@@ -13,4 +13,7 @@
 
 # ERC (ethereum request for comment) or EIP ethereum improvement proposal 
 
-In this application we are going to keep track of products provenance.  
+In this application we are going to keep track of products provenance. 
+
+# truffle 
+Using truffle to deploy using migrations ``truffle deploy --reset`` 
